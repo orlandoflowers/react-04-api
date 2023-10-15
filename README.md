@@ -1,8 +1,10 @@
-# React + Vite
+# Desafio Consumo de APIs con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Autor
+- Orlando Flores
 
-Currently, two official plugins are available:
+API consumida: 
+- (https://api.victorsanmartin.com/feriados/en.json)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Video de la explicacion: 
+- (https://www.loom.com/share/72b50c1e2ff8466482fe36b40eaf8502?sid=6df9db66-5e96-4531-a275-b6be830ccbeb)
